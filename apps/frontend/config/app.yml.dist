@@ -1,0 +1,10 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  twitter:
+    consumer_key:          'YOUR_CONSUMER_KEY'
+    consumer_secret:       'YOUR_CONSUMER_SECRET'
+    callback_url:          'CALLBACK_URL'
+    callback_redirect_url: 'CALLBACK_REDIRECT_URL'
